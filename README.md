@@ -1,3 +1,6 @@
+<head>
+<link rel="stylesheet" href="stylesheet.css">
+</head>
 ![Header](https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/github-header-image.png)
 )
 
@@ -27,15 +30,6 @@ Here are some ideas to get you started:
 ## Technical Certifications
 
 These are some of my Certifications. 
-<style type="text/css">
-  .container {
-  display: flex;
-  justify-content: center; /* horizontal center - align along the main axis */
-  align-items: center;
-  flex-wrap: wrap;
-  }
-</style>
-
 <div class="container">
 <div>
  <a href=”https://cs50.harvard.edu/certificates/bb37589c-eb89-440f-ae7f-6306ef259962”>
