@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Connect with me 
 <!-- Social Links -->
 <p align="center">
 <a href="https://linkedin.com/in/ankita-dharne"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 These are some of my Certifications. 
 |[**CS50**](https://cs50.harvard.edu/certificates/bb37589c-eb89-440f-ae7f-6306ef259962)|[**AZ900**](https://www.credly.com/badges/f5f9599c-9f86-4f5b-ba08-109aea81445d?source=linked_in_profile)|[**DOCKER**](https://kodekloud.com/certificate-verification/2D03FCFBDA45-2D03F6F75349-2D03F6C8C99D/)|[**MATLAB**](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=f9b7c2fb-badd-4b72-88e8-bf39e21d0af5&)
+|:---:|:---:|:---:|:---:|:---:|:---:| 
+|![CS50](https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/CS50.jpeg)|![AZ900](https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/AZ900.png)|[!DOCKER](https://raw.githubusercontent.com/ankita-dharne/ankita-dharne/main/assets/docker.webp)|![MATLAB](https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/MATLAB.png)
 
 - 🔭 I’m currently a student of Master of Information technology.
 - 🌱 I’m currently learning MERN, Swift, Cloud Technology apart from my curriculum.
