@@ -1,6 +1,3 @@
-<head>
-<link rel="stylesheet" href="stylesheet.css">
-</head>
 ![Header](https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/github-header-image.png)
 )
 
@@ -19,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<link rel="stylesheet" href="stylesheet.css">
 ## Connect with me 
 <!-- Social Links -->
 <p align="center">
