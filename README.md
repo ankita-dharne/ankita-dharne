@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## Technical Certifications
 
 These are some of my Certifications. 
-<style>
+<style type="text/css">
   .container {
   display: flex;
   justify-content: center; /* horizontal center - align along the main axis */
