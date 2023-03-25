@@ -27,26 +27,26 @@ Here are some ideas to get you started:
 ## Technical Certifications
 
 These are some of my Certifications. 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
  <div align="center"> 
   <a href=”https://cs50.harvard.edu/certificates/bb37589c-eb89-440f-ae7f-6306ef259962”>
- <img style="margin: 10px" src="https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/CS50.jpeg" alt="CS50" height="50"/>  
+ <img style="margin: 10px" src="https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/CS50.jpeg" alt="CS50" height="150"/>  
   </a>
 </div>
  <div align="center"> 
  <a href=”https://www.credly.com/badges/f5f9599c-9f86-4f5b-ba08-109aea81445d”>
- <img style="margin: 10px" src="https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/AZ900.png" alt="AZ900" height="50" />  
+ <img style="margin: 10px" src="https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/AZ900.png" alt="AZ900" height="150" />  
   </a></div>
  <div align="center"> 
  <a href=”https://kodekloud.com/certificate-verification/2D03FCFBDA45-2D03F6F75349-2D03F6C8C99D/”>
- <img style="margin: 10px" src="https://raw.githubusercontent.com/ankita-dharne/ankita-dharne/main/assets/docker.webp" alt="DOCKER" height="50" />  
+ <img style="margin: 10px" src="https://raw.githubusercontent.com/ankita-dharne/ankita-dharne/main/assets/docker.webp" alt="DOCKER" height="150" />  
  </a></div>
  <div align="center"> 
  <a href=”https://matlabacademy.mathworks.com/progress/share/certificate.html?id=f9b7c2fb-badd-4b72-88e8-bf39e21d0af5&”>
- <img style="margin: 10px" src="https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/MATLAB.png" alt="MATLAB" height="50" />  
+ <img style="margin: 10px" src="https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/MATLAB.png" alt="MATLAB" height="150" />  
  </a>
  </div>
- 
+ </td></tr></table>  
 
 - 🔭 I’m currently a student of Master of Information technology.
 - 🌱 I’m currently learning MERN, Swift, Cloud Technology apart from my curriculum.
