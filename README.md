@@ -1,5 +1,4 @@
 ![Header](https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/github-header-image.png)
-)
 
 
 <!--
@@ -16,8 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<link rel="stylesheet" href="stylesheet.css">
+
 ## Connect with me 
+
 <!-- Social Links -->
 <p align="center">
 <a href="https://linkedin.com/in/ankita-dharne"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -27,36 +27,21 @@ Here are some ideas to get you started:
 
 ## Technical Certifications
 
-These are some of my Certifications. 
-<div class="container">
-<div>
- <a href=”https://cs50.harvard.edu/certificates/bb37589c-eb89-440f-ae7f-6306ef259962”>
- <img style="margin: 10px" src="https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/CS50.jpeg" alt="CS50" height="150"/>  
- </a>
-</div>
-<div>
- <a href=”https://www.credly.com/badges/f5f9599c-9f86-4f5b-ba08-109aea81445d”>
- <img style="margin: 10px" src="https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/AZ900.png" alt="AZ900" height="150" />  
-</a></div>
-<div>
- <a href=”https://kodekloud.com/certificate-verification/2D03FCFBDA45-2D03F6F75349-2D03F6C8C99D/”>
- <img style="margin: 10px" src="https://raw.githubusercontent.com/ankita-dharne/ankita-dharne/main/assets/docker.webp" alt="DOCKER" height="150" />  
- </a></div>
- <div>
- <a href=”https://matlabacademy.mathworks.com/progress/share/certificate.html?id=f9b7c2fb-badd-4b72-88e8-bf39e21d0af5&”>
- <img style="margin: 10px" src="https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/MATLAB.png" alt="MATLAB" height="150" />  
- </a></div>
-</div>
+These are some of my Certifications. <br />
+[![CS50](https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/CS50.jpeg)](https://cs50.harvard.edu/certificates/bb37589c-eb89-440f-ae7f-6306ef259962)
+[![AZ900](https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/AZ900.jpeg)](https://www.credly.com/badges/f5f9599c-9f86-4f5b-ba08-109aea81445d)
+[![DOCKER](https://raw.githubusercontent.com/ankita-dharne/ankita-dharne/main/assets/docker.jpeg)](https://kodekloud.com/certificate-verification/2D03FCFBDA45-2D03F6F75349-2D03F6C8C99D/)
+[![MATLAB](https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/MATLAB.png)](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=f9b7c2fb-badd-4b72-88e8-bf39e21d0af5&)
 
 - 🔭 I’m currently a student of Master of Information technology.
-- 🌱 I’m currently learning MERN, Swift, Cloud Technology apart from my curriculum.
+- 🌱 I’m currently learning MERN, Swift, Cloud Technology, DevOps.
 - 🌱 I have worked on Haskell, Purescript, Java, Android, Python, Typescript, Javascript, C, C++.
-- 👯 I’m excited to collaborate on open souce projects.
+- 👯 I'm eager to start on open souce projects.
 - 💬 Feel free to say Hi!
 
 <!--dashboards-->
 <div class="flex-container">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita-dharne&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages msandfor uses" />     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankita-dharne&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for Ankita"/></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita-dharne&show_icons=true&theme=nord&layout=compact&hide=html" alt="Languages msandfor uses" />     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankita-dharne&show_icons=true&theme=nord&layout=compact" alt="GitHub Stats for Ankita"/></p>
 </div>
 
 
