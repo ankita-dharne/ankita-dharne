@@ -28,10 +28,45 @@ Here are some ideas to get you started:
 ## Technical Certifications
 
 These are some of my Certifications. <br />
-[![CS50](https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/CS50.jpeg)](https://cs50.harvard.edu/certificates/bb37589c-eb89-440f-ae7f-6306ef259962)
-[![AZ900](https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/AZ900.jpeg)](https://www.credly.com/badges/f5f9599c-9f86-4f5b-ba08-109aea81445d)
-[![DOCKER](https://raw.githubusercontent.com/ankita-dharne/ankita-dharne/main/assets/docker.jpeg)](https://kodekloud.com/certificate-verification/2D03FCFBDA45-2D03F6F75349-2D03F6C8C99D/)
-[![MATLAB](https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/MATLAB.png)](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=f9b7c2fb-badd-4b72-88e8-bf39e21d0af5&)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://cs50.harvard.edu/certificates/bb37589c-eb89-440f-ae7f-6306ef259962">
+        <img src="https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/CS50.jpeg" width="100px;" alt="CS50"/>
+      </a>
+      <br />
+      <a href="https://cs50.harvard.edu/certificates/bb37589c-eb89-440f-ae7f-6306ef259962">CS50</a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/f5f9599c-9f86-4f5b-ba08-109aea81445d">
+        <img src="https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/AZ900.jpeg" width="100px;" alt="az900"/>
+      </a>
+      <br />
+      <a href="https://www.credly.com/badges/f5f9599c-9f86-4f5b-ba08-109aea81445d">AZ 900</a>
+    </td>
+    <td align="center">
+      <a href="https://kodekloud.com/certificate-verification/2D03FCFBDA45-2D03F6F75349-2D03F6C8C99D/">
+        <img src="https://raw.githubusercontent.com/ankita-dharne/ankita-dharne/main/assets/docker.jpeg" width="100px;" alt="DOCKER"/>
+      </a>
+      <br />
+      <a href="https://kodekloud.com/certificate-verification/2D03FCFBDA45-2D03F6F75349-2D03F6C8C99D/">DOCKER</a>
+    </td>
+    <td align="center">
+      <a href="https://kodekloud.com/certificate-verification/2D03FCFBDA45-2D03F6F6681D-2D03F6C8C99D/">
+        <img src="https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/devops.png" width="100px;" alt="DEVOPS"/>
+      </a>
+      <br />
+      <a href="https://kodekloud.com/certificate-verification/2D03FCFBDA45-2D03F6F6681D-2D03F6C8C99D/">DEVOPS</a>
+    </td>
+    <td align="center">
+      <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=f9b7c2fb-badd-4b72-88e8-bf39e21d0af5&">
+        <img src="https://github.com/ankita-dharne/ankita-dharne/blob/main/assets/MATLAB.png" width="100px;" alt="MATLAB"/>
+      </a>
+      <br />
+      <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=f9b7c2fb-badd-4b72-88e8-bf39e21d0af5&">MATLAB</a>
+    </td>
+  </tr>
+</table>
 
 - 🔭 I’m currently a student of Master of Information technology.
 - 🌱 I’m currently learning MERN, Swift, Cloud Technology, DevOps.
